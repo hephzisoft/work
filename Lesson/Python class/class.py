@@ -1,5 +1,9 @@
-name  = "Mustapha"
-age = 20
-color ="Yellow"
-sex="Everyday"
-print("My name is ", name, " I am ", age,"years old","my  best color is ", color,"i have sex ",sex )
+name = ['emmanuel', 'samod','hephzibah','christiana']
+
+class_name= ["science", 'art', 'commercial']
+
+
+
+name.append(class_name)
+
+print(name)
