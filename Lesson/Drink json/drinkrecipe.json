@@ -1,0 +1,132 @@
+{
+    "drink_recipe": [
+        {
+            "category": "cocoa",
+            "name": "hot cocoa",
+            "ingredients": " cocoa powder,water,sugar,powdered milk,vanilla",
+            "instruction": "In a small saucepan, combine sugar and cocoa; stir in 2/3 cup water. Bring to a boil. Reduce heat; cook and stir for 5 minutes.Stir in milk powder and remaining water. Return to the heat; cook and stir until heated through. Stir in vanilla.",
+            "image": "https://spoonacular.com/recipeImages/408892-556x370.jpg",
+            "favorite": "false"
+        },
+        {
+            "category": "cocoa",
+            "name": "mocha",
+            "ingredients": "espresso,coffee,hot cocoa milk,milk, base",
+            "instruction": "Make around 35ml espresso using a coffee machine and pour it into the base of your cup. Add the drinking chocolate and mix well until smooth. Steam the milk with the steamer attachment so that it has around 4-6cm of foam on top. Hold the jug so that the spout is about 3-4cm above the cup and pour the milk in steadily. As the volume within the cup increases, bring the jug as close to the surface of the drink as possible whilst aiming into the centre. Once the milk jug is almost touching the surface of the coffee, tilt to speed up the rate of pour. As you accelerate, the milk will hit the back of the cup and start naturally folding in on itself to create a pattern on the top.",
+            "favorite": "false",
+            "image": "https://spoonacular.com/recipeImages/1091431-556x370.jpg"
+        },
+        {
+            "category": "cocoa",
+            "name": "chocolate icecream",
+            "ingredients": "salt,egg yolk,heavy cream,skim milk,vanilla,sugar,unsweetened cocoa powder",
+            "instruction": "Whisk together the cream, milk, sugar, cocoa powder, and salt in a medium saucepan. Place the saucepan over medium heat and bring the mixture to a simmer, stirring occasionally.In a small bowl, whisk together the egg yolks. Slowly drizzle about a cup of the hot cream mixture into the egg yolks, whisking constantly to prevent the eggs from curdling.Pour the egg yolk mixture back into the saucepan with the rest of the cream mixture and reduce the heat to medium-low. Cook, stirring constantly until the mixture thickens and coats the back of a spoon, about 5-7 minutes.Remove the saucepan from the heat and stir in the vanilla extract. Pour the mixture through a fine-mesh strainer into a clean bowl. Place the bowl in an ice bath and stir the mixture until it is cool.Once the mixture is cool, cover the bowl with plastic wrap and refrigerate until chilled, at least 2 hours or overnight.Once the mixture is chilled, churn it in an ice cream maker according to the manufacturer's instructions. Transfer the churned ice cream to a container with a tight-fitting lid and freeze until firm, at least 2 hours or overnight",
+            "favorite": "false",
+            "image": "https://spoonacular.com/recipeImages/141875-556x370.png"
+        },
+        {
+            "category": "cocoa",
+            "name": "chocolate milkshake",
+            "ingredients": "chocolate hazelnut spread,semi-skimmed milk, chocolate ice cream,marshmallows,double cream,hazelnut",
+            "instruction": "Load the back of a teaspoon with a little of the chocolate spread and spread it in a long line from the bottom of the inside of the glass to the top. Put the rest of the chocolate spread into a bowl in the microwave or in a small saucepan over a low heat. Warm through for a few seconds just until runny and set aside.Put the milk and chocolate ice cream into a blender. Whizz everything up until smooth then pour into your prepared glass.Top with a layer of the marshmallows and a spoonful of whipped cream. Decorate with a drizzle of the warmed chocolate spread and a few toasted hazelnuts. Serve immediately with a straw.",
+            "favorite": "false",
+            "image": "https://spoonacular.com/recipeImages/1091431-556x370.jpg"
+        },
+        {
+            "category": "soft drink",
+            "name": "cola soft drink",
+            "ingredients": " water,sugar,caramel color,citric acid,phosphoric acid,natural flavour(such as lime, lemon, and orange oils",
+            "instruction": "Combine the sugar and water in a saucepan and bring to a boil, stirring until the sugar has dissolved.Remove from heat and add the caramel color, citric acid, phosphoric acid, and natural flavors. Stir to combine.Allow the mixture to cool completely, then transfer to a bottle or container with a tight-fitting lid.Refrigerate the cola syrup until ready to use.To make a glass of cola, combine 2-3 tablespoons of the cola syrup with 6-8 ounces of carbonated water. Stir well and serve over ice. Enjoy!",
+            "favorite": "false",
+            "image": "https://res.cloudinary.com/hephzisoft/image/upload/v1672745982/DrinkApp/cola_ycaofv.jpg"
+        },
+        {
+            "category": "soft drink",
+            "name": "lemon soft drink",
+            "ingredients": "water,sugar,lemon juice,salt",
+            "instruction": "In a small saucepan, bring the water to a boil.Add the sugar and stir until it has dissolved.Remove the pan from the heat and add the lemon juice and salt. Stir until well combined.Pour the mixture into a pitcher and add the cold water. well and refrigerate until chilled. over ice and enjoy!",
+            "favorite": "false",
+            "image": "https://res.cloudinary.com/hephzisoft/image/upload/v1672746378/DrinkApp/lemon_c6ccwa.jpg"
+        },
+        {
+            "category": "soft drink",
+            "name": "orange soda",
+            "ingredients": "water,sugar,orange juice concentrate,natural orange flavor,citric acid",
+            "instruction": "Combine the sugar and water in a saucepan and bring to a boil, stirring until the sugar has dissolved.Remove from heat and add the orange juice concentrate, natural orange flavor, and citric acid. Stir to combine.Allow the mixture to cool completely, then transfer to a bottle or container with a tight-fitting lid.Refrigerate the orange soda syrup until ready to use.To make a glass of orange soda, combine 2-3 tablespoons of the orange soda syrup with 6-8 ounces of carbonated water. Stir well and serve over ice. Enjoy!",
+            "favorite": "false",
+            "image": "https://res.cloudinary.com/hephzisoft/image/upload/v1672746718/DrinkApp/orange_il1bbf.jpg"
+        },
+        {
+            "category": "soft drink",
+            "name": "ginger ale",
+            "ingredients": "sugar,water,ginger extract,natural ginger flavour,citric acid",
+            "instruction": "Combine the sugar and water in a saucepan and bring to a boil, stirring until the sugar has dissolved.Remove from heat and add the ginger extract, natural ginger flavor, and citric acid. Stir to combine.Allow the mixture to cool completely, then transfer to a bottle or container with a tight-fitting lid.Refrigerate the ginger ale syrup until ready to use.To make a glass of ginger ale, combine 2-3 tablespoons of the ginger ale syrup with 6-8 ounces of carbonated water. Stir well and serve over ice. Enjoy!",
+            "favorite": "false",
+            "image": "https://res.cloudinary.com/hephzisoft/image/upload/v1672747070/DrinkApp/ginger_ale_bcplhh.jpg"
+        },
+        {
+            "category": "shakes",
+            "name": "chocolate shakes",
+            "ingredients": "milk,ice cream (vanilla, chocolate, or any flavor you prefer),chocolate syrup,whipped cream (optional)",
+            "instruction": "Combine the milk, ice cream, and chocolate syrup in a blender.Blend until smooth and creamy.Pour the shake into a tall glass and top with whipped cream, if desired.Serve immediately and enjoy!.Note: You can also add other ingredients to your chocolate shake, such as peanut butter, nuts, or chocolate chips. You can also use soy milk or almond milk in place of regular milk, if desired.",
+            "favorite": "false",
+            "image": "https://res.cloudinary.com/hephzisoft/image/upload/v1672747218/DrinkApp/chocolate_shakes_bdge6s.jpg"
+        },
+        {
+            "category": "shakes",
+            "name": "strawberry shake",
+            "ingredients": "milk,ice cream (vanilla, chocolate, or any flavor you prefer),fresh or frozen strawberries,whipped cream (optional)",
+            "instruction": "Combine the milk, ice cream, and strawberries in a blender.Blend until smooth and creamy.Pour the shake into a tall glass and top with whipped cream, if desired.Serve immediately and enjoy!.Note: You can also add other ingredients to your strawberry shake, such as yogurt, honey, or vanilla extract. You can also use soy milk or almond milk in place of regular milk, if desired.",
+            "favorite": "false",
+            "image": "https://res.cloudinary.com/hephzisoft/image/upload/v1672747640/DrinkApp/strawberry_shake_tihlfv.jpg"
+        },
+        {
+            "category": "shakes",
+            "name": "vanilla shakes",
+            "ingredients": "milk,ice cream (vanilla, chocolate, or any flavor you prefer),vanilla extract,whipped cream (optional)",
+            "instruction": "Combine the milk, ice cream, and vanilla extract in a blender.Blend until smooth and creamy.Pour the shake into a tall glass and top with whipped cream, if desired.Serve immediately and enjoy!Note: You can also add other ingredients to your vanilla shake, such as chocolate syrup, nuts, or fruit. You can also use soy milk or almond milk in place of regular milk, if desired.",
+            "favorite": "false",
+            "image": "https://res.cloudinary.com/hephzisoft/image/upload/v1672747875/DrinkApp/vanilla_shakes_wzrb1n.jpg"
+        },
+        {
+            "category": "shakes",
+            "name": "coffee shakes",
+            "ingredients": "milk,ice cream (vanilla, chocolate, or any flavor you prefer),brewed coffee, cooled,whipped cream (optional)",
+            "instruction": "Combine the milk, ice cream, and coffee in a blender.Blend until smooth and creamy.Pour the shake into a tall glass and top with whipped cream, if desired.Serve immediately and enjoy!Note: You can also add other ingredients to your coffee shake, such as chocolate syrup, nuts, or caramel sauce. You can also use soy milk or almond milk in place of regular milk, if desired.",
+            "favorite": "false",
+            "image": "https://res.cloudinary.com/hephzisoft/image/upload/v1672749342/DrinkApp/coffee_shakes_jtovtp.jpg"
+        },
+        {
+            "category": "cocktails",
+            "name": "martini",
+            "ingredients": "vodka,dry vermouth,olive brine, or lemon twist (for garnish)",
+            "instruction": "Fill a cocktail shaker with ice.Add the vodka, dry vermouth, and olive brine to the shaker.Shake well until well chilled.Strain the mixture into a chilled martini glass.Garnish with an olive or lemon twist, if desired.Serve immediately and enjoy!Note: You can also add other ingredients to your martini, such as bitters, liqueurs, or fruit juices. You can also use gin in place of vodka, if desired.",
+            "favorite": "false",
+            "image": "https://res.cloudinary.com/hephzisoft/image/upload/v1672752677/DrinkApp/martini_pmizp9.jpg"
+        },
+        {
+            "category": "cocktails",
+            "name": "margarita",
+            "ingredients": "tequila,lime juice,orange liqueur (such as Cointreau),salt, for rimming the glass,ice",
+            "instruction": "Rim a margarita glass with salt. To do this, moisten the rim of the glass with a lime wedge and then dip it into a shallow dish of salt.Fill a shaker with ice. Add the tequila, lime juice, and orange liqueur. Shake well.Strain the mixture into the prepared margarita glass.Garnish with a lime wedge and serve immediately.",
+            "favorite": "false",
+            "image": "https://res.cloudinary.com/hephzisoft/image/upload/v1672752987/DrinkApp/margarita_gcd8rw.jpg"
+        },
+        {
+            "category": "cocktails",
+            "name": "cosmopolitian",
+            "ingredients": "vodka,cranberry juice,Cointreau or triple sec,fresh lime juice,cranberries for garnish,lime for garnish",
+            "instruction": "Fill a shaker with ice.Add the vodka, cranberry juice, Cointreau, and lime juice to the shaker.Shake well to combine the ingredients.Strain the cocktail into a chilled martini glass.Garnish with cranberries and a lime wedge.Serve immediately and enjoy! Note: If you don't have a shaker, you can also use a blender to mix the ingredients together. Just add all of the ingredients to the blender, blend until smooth, and pour into a chilled glass.",
+            "favorite": "false",
+            "image": "https://res.cloudinary.com/hephzisoft/image/upload/v1672753693/DrinkApp/cosmopolitian_qbkmh6.jpg"
+        },
+        {
+            "category": "cocktails",
+            "name": "daiquiri",
+            "ingredients": "white rum, fresh lime juice, simple syrup, slice of lime for garnish",
+            "instruction": "Fill a shaker with ice.Add the rum, lime juice, and simple syrup to the shaker.Shake well to combine the ingredients.Strain the cocktail into a chilled glass.Garnish with a slice of lime.Serve immediately and enjoy!Note: If you don't have a shaker, you can also use a blender to mix the ingredients together. Just add all of the ingredients to the blender, blend until smooth, and pour into a chilled glass. You can also serve the daiquiri frozen, by adding all of the ingredients to a blender with a cup of ice and blending until smooth. Pour the frozen daiquiri into a chilled glass and garnish with a slice of lime.",
+            "favorite": "false",
+            "image": "https://res.cloudinary.com/hephzisoft/image/upload/v1672754129/DrinkApp/daiquirir_ryzjx2.jpg"
+        }
+    ]
+}
