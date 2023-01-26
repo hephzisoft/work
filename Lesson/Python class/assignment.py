@@ -48,18 +48,28 @@
 
 
 
-# TODO assignment 6
-clas = [10,15,[31,4],[5,[100,200,['ibukun','python']],23,11],1,7]
+# # TODO assignment 6
+# clas = [10,15,[31,4],[5,[100,200,['ibukun','python']],23,11],1,7]
 
-print(clas[3][1][2][0])
-print(clas[3][3])
-print(clas[2][0])
-first = clas[3][1][2][0]
-second = clas[3][1][0]
-third = clas[3][1][2][1]
+# print(clas[3][1][2][0])
+# print(clas[3][3])
+# print(clas[2][0])
+# first = clas[3][1][2][0]
+# second = clas[3][1][0]
+# third = clas[3][1][2][1]
 
 
-listed  = [second, first , third]
+# listed  = [second, first , third]
 
-print(listed)
+# print(listed)
+
+
+
+# TODO ASSIGNMENT 6
+even=[int(i) for i in range(0,201,2)]
+odd =[int(i) for i in range(1,201,2)]
+print(f"{even} {odd}")
+
+    
+
 
