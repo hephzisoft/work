@@ -47,7 +47,6 @@
 # print(sorted(surname.append(append_surname)))
 
 
-
 # # TODO assignment 6
 # clas = [10,15,[31,4],[5,[100,200,['ibukun','python']],23,11],1,7]
 
@@ -64,12 +63,33 @@
 # print(listed)
 
 
+# # TODO ASSIGNMENT 6
+# even = [int(i) for i in range(0, 201, 2)]
+# odd = [int(i) for i in range(1, 201, 2)]
+# print(f"{even} {odd}")
 
-# TODO ASSIGNMENT 6
-even=[int(i) for i in range(0,201,2)]
-odd =[int(i) for i in range(1,201,2)]
-print(f"{even} {odd}")
 
+# TODO ASSIGNMENT 7
+
+def speed(birthday,speeds):
     
+    if birthday == "yes" or birthday == "y":
+        newspeed = speeds-5
+        print()
+        if newspeed <= 60:
+            return("No ticket")
+        elif newspeed >= 61 and newspeed <= 80:
+            return("Small ticket")
+        elif newspeed >= 81:
+            return("Large Ticket")
+    elif birthday == "no" or birthday == "n":
+        if speeds <= 60:
+            return("No ticket")
+        elif speeds >= 61 and speeds <= 80:
+            return("Small ticket")
+        elif speeds >= 81:
+            return("Large Ticket")
 
-
+birthday = input("Is today your birthday:\n(Y)es or (N)o").lower()
+speeds = int(input("Speed: "))
+print(speed(birthday,speeds))
