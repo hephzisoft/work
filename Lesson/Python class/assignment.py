@@ -90,6 +90,6 @@ def speed(birthday,speeds):
         elif speeds >= 81:
             return("Large Ticket")
 
-birthday = input("Is today your birthday:\n(Y)es or (N)o").lower()
+birthday = input("Is today your birthday:\n(Y)es or (N)o ").lower()
 speeds = int(input("Speed: "))
 print(speed(birthday,speeds))
