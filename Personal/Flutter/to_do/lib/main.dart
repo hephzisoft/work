@@ -1,12 +1,9 @@
-import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
-import 'package:to_do/Auth/auth_service.dart';
 import 'package:to_do/screen/home_page.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
-  await Firebase.initializeApp();
   const MaterialColor primarySwatch = MaterialColor(
     0xFF111C2F,
     <int, Color>{
@@ -29,7 +26,7 @@ void main() async {
         primarySwatch: primarySwatch,
         textTheme: GoogleFonts.poppinsTextTheme(),
       ),
-      home: AuthService().handleAuthState(),
+      home:const HomePage(),
     ),
   );
 }

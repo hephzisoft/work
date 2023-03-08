@@ -1,19 +1,35 @@
-create database semester_four;
-use semester_four;
+create database FCMB;
+use FCMB;
 
-CREATE TABLE aptech (
-Name varchar(10),
+create table database_1(
+emp_id int primary key auto_increment,
+emp_name varchar(10),
 age int,
-sex varchar(1),
-country varchar(20),
-Amount int 
-)
+gender char(1),
+dob date,
+salary float,
+dept varchar(10)
+);
 
 
-select * from aptech;
-insert into aptech values('samod',2,'f','togo',10);
-insert into aptech values('Hephzibah',18,'M','Nigeria',100000000);
-insert into aptech values('Christi',12,'f','france',109);
-insert into aptech values('Pablo',1,'f','Benin republic',100);
-insert into aptech values('Muustapha',12,'f','Dr congo',100);
-select * from aptech;
+
+select * from database_1;
+insert into database_1 values
+(102, 'anny','f','2006-09-20',20000,'marketing');
+select * from database_1;
+
+
+ALTER TABLE database_1 DROP gender;
+
+ALTER TABLE database_1 ADD COLUMN gender VARCHAR(1);
+UPDATE database_1 SET gender = 'M' WHERE emp_id = 101;
+
+select * from database_1;
+
+select sum(salary) as total_salary from  database_1;
+
+SELECT MAX(salary) AS max_salary from database_1;
+SELECT MIN(salary) AS min_salary from database_1;
+
+
+alter table database_1 rename column salary to money;
